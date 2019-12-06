@@ -24,7 +24,7 @@ Remocon UI is available as an open-source project under the MIT license (Donate,
 Please visit my [official site](https://www.tnksoft.com/soft/iot/remoui/).
 
 ## :pager: Use it now
-I uploaded compiled web page data on the [Github hosting service](https://tnksoftware.github.io/remoui/doc/app/). Just by visiting this website, you can use it in almost any modern browser running ECMAScript 5. Edited layouts and their contents are never sent externally unless explicitly specified by an action command. However, please keep a backup of your data because I may close or move that site without notice.
+I uploaded compiled web page data on the [Github hosting service](https://tnksoftware.github.io/RemoconUI/app/). Just by visiting this website, you can use it in almost any modern browser running ECMAScript 5. Edited layouts and their contents are never sent externally unless explicitly specified by an action command. However, please keep a backup of your data because I may close or move that site without notice.
 
 ## :thought_balloon: Future prospects
 
@@ -37,3 +37,11 @@ I uploaded compiled web page data on the [Github hosting service](https://tnksof
 
 ## :copyright: License
 [MIT](http://opensource.org/licenses/MIT)
+
+- Vue.js / Copyright (c) 2013-present Yuxi Evan You
+- vuetify / Copyright (c) 2016-2019 John Jeremy Leider
+- dnd-grid / Copyright (c) 2017 dattn
+- vue-i18n / Copyright (c) 2016 kazuya kawaguchi
+- string-format / Copyright (c) 2018 David Chambers
+- Sortable / Copyright (c) 2019 All contributors to Sortable
+- localForage / Copyright (c) 2013-2016 Mozilla
