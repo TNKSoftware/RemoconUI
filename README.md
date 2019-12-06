@@ -24,7 +24,7 @@ Remocon UI is available as an open-source project under the MIT license (Donate,
 Please visit my [official site](https://www.tnksoft.com/soft/iot/remoui/).
 
 ## :pager: Use it now
-I uploaded compiled web page data on the [Github hosting service](https://tnksoftware.github.io/RemoconUI/). Just by visiting this website, you can use it in almost any modern browser running ECMAScript 5. Edited layouts and their contents are never sent externally unless explicitly specified by an action command. However, please keep a backup of your data because I may close or move that site without notice.
+I uploaded compiled web page data on the [Github hosting service](https://tnksoftware.github.io/RemoconUI/app/). Just by visiting this website, you can use it in almost any modern browser running ECMAScript 5. Edited layouts and their contents are never sent externally unless explicitly specified by an action command. However, please keep a backup of your data because I may close or move that site without notice.
 
 ## :thought_balloon: Future prospects
 
