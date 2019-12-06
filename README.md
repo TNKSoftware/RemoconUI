@@ -33,7 +33,7 @@ I uploaded compiled web page data on the [Github hosting service](https://tnksof
 - E-Ink mode(High contrast & no animation effects).
 
 ## :yen: Donate, please!
-Donations do not promise to maintain the app. But your support will reduce my dependence on social security.
+[![Donate For Free Project](https://www.tnksoft.com/donate/donate.svg "Donate For Free Project")](https://www.tnksoft.com/donate/?lang=en)
 
 ## :copyright: License
 [MIT](http://opensource.org/licenses/MIT)
