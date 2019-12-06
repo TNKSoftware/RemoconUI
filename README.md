@@ -1,8 +1,3 @@
-<style>
-.center{
-    text-align:center;
-}
-</style>
 <p class="center"><img height="150" src="/assets/title.svg"></p>
 <h1 class="center">Remocon UI</h1>
 <p class="center">Browser-Based Remote Controller UI Tool for IoT Devices</p>
@@ -26,7 +21,7 @@ Remocon UI is available as an open-source project under the MIT license (Donate,
 
 ## :book: Documentation
 
-Please visit an [official site](https://www.tnksoft.com/soft/iot/remoui/).
+Please visit my [official site](https://www.tnksoft.com/soft/iot/remoui/).
 
 ## :pager: Use it now
 I uploaded compiled web page data on the [Github hosting service](https://tnksoftware.github.io/remoui/doc/app/). Just by visiting this website, you can use it in almost any modern browser running ECMAScript 5. Edited layouts and their contents are never sent externally unless explicitly specified by an action command. However, please keep a backup of your data because I may close or move that site without notice.
