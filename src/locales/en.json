@@ -1,0 +1,35 @@
+{
+  "pagename": "Page name",
+  "host": "Host",
+  "background": "Background color",
+  "gridrows": "Grid rows",
+  "gridcols": "Grid columns",
+  "gridmargin": "Grid margin",
+  "forland": "Use for landscape",
+  "forport": "Use for portrait",
+
+  "aslabel": "Display as label",
+  "textcolor": "Text color",
+  "btncolor": "Button color",
+  "labeltype": "Label type",
+  "iconname": "Label's icon name",
+  "iconlist": "Icon list",
+  "labeltext": "Label text",
+  "labelimage": "Label image",
+  "labelsize": "Label size",
+  "roundness": "Border roundness",
+  "indicorner": "Individual corner",
+
+  "ignoreres": "Ignore response",
+  "action": "Action",
+
+  "editdict": "Edit dictionary",
+  "editpages": "Edit pages",
+  "editlayout": "Edit layout",
+  
+  "keyerror": "You can use only numbers, letters, hyphens and underbars for the key.",
+  "emptyval": "A value is empty.",
+
+  "cantconnect": "Can't connect to server \"{0}\"",
+  "servererror": "Server returns an error code({0}:{1})."
+}

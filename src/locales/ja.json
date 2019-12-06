@@ -1,0 +1,35 @@
+{
+  "pagename": "ページの名前",
+  "host": "ホスト",
+  "background": "背景の色",
+  "gridrows": "縦の数",
+  "gridcols": "横の数",
+  "gridmargin": "ボタンの間隔",
+  "forland": "横画面で使用",
+  "forport": "縦画面で使用",
+
+  "aslabel": "ラベルとして表示",
+  "textcolor": "テキストの色",
+  "btncolor": "ボタンの色",
+  "labeltype": "ラベルの種類",
+  "iconname": "アイコンの名称",
+  "iconlist": "アイコン一覧",
+  "labeltext": "ラベルの文字",
+  "labelsize": "ラベルのサイズ",
+  "labelimage": "ラベルの画像",
+  "roundness": "ボタンの丸み",
+  "indicorner": "丸みを個別に指定",
+
+  "action": "アクション",
+  "ignoreres": "返信を無視する",
+
+  "editdict": "辞書の編集",
+  "editpages": "ページの編集",
+  "editlayout": "レイアウトの編集",
+  
+  "keyerror": "キーに使用できるのは英数字とハイフン、下線のみです。",
+  "emptyval": "値(Value)が空です。",
+
+  "cantconnect": "\"{0}\"に接続できませんでした。",
+  "servererror": "サーバーがエラーコードを返しました({0}:{1})。"
+}
