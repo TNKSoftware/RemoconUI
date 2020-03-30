@@ -152,7 +152,7 @@ export default {
     },
     bgcolor(){
       var p = this.currentPage;
-      if(p && p.backColor) return p.backColor;
+      if(p && p.bgColor) return p.bgColor;
       else return "inherit";
     },
     pageName(){
@@ -315,6 +315,10 @@ export default {
 </script>
 
 <style>
+body::-webkit-scrollbar{
+  display: none;
+}
+
 .v-app{
   position: absolute;
 }

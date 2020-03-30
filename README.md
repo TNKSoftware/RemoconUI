@@ -1,15 +1,6 @@
-<p class="center"><img height="150" src="/assets/title.svg"></p>
-<h1 class="center">Remocon UI</h1>
-<p class="center">Browser-Based Remote Controller UI Tool for IoT Devices</p>
-
-<p class="center">
-  
-</p>
-
-<br/>
+# Hugo multilanguage template
 
 ## :question: What's this?
-<p class="center"><img src="/assets/appimage.png" width="75%"></p>
 
 Remocon(Remote controll) UI is a user interface tool that runs on the browser. You can use AJAX (HTTP POST) for remote control like a TV remote control. Please use it to control embedded devices running HTTP servers such as Raspberry PI, or to work with remote services that support REST APIs such as IFTTT.
 
@@ -20,6 +11,8 @@ IndexedDB or localStorage automatically saves your design to a local device, but
 Remocon UI is available as an open-source project under the MIT license (Donate, please!). If you want more customization, edit the source code directly.
 
 ## :book: Documentation
+
+This is the most basic example of a multilingual template. The character string recorded in Key-Value format is reflected in the toml (or json, yaml) file.
 
 Please visit my [official site](https://www.tnksoft.com/soft/iot/remoui/).
 
